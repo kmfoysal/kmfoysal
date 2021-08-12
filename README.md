@@ -3,7 +3,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Foysal</h1>
 <h3 align="center">A passionate front end web developer.</h3>
 
-<b
+<b/>
+
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **React Project**
