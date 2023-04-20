@@ -7,15 +7,20 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **React Project**
+<p>
+Highly motivated MERN Stack Developer with 3 years of experience in building complex web
+applications. Proficient in front-end and back-end development with expertise in React, Node.js,
+MongoDB, and Express.js. Strong understanding of responsive design, RESTful APIs, and web
+security. Possesses excellent problem-solving skills and a passion for delivering high-quality code.
+</p>
 
-- 🌱 I’m currently learning **MERN Stack Development.**
+-   🔭 I’m currently working at **Getweb Inc**
 
-- 👯 I’m looking for a new job as a **Front End Developer**
+-   🌱 I’m currently work on **MERN Stack Project.**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://kmfoysal.com)** and **[My Git Hub](https://github.com/kmfoysal)** also
+-   👨‍💻 All of my projects are available at **[My Portfolio](https://kmfoysal.netlify.app)** and **[My Git Hub](https://github.com/kmfoysal)** also
 
-- 📫 Write me **contact.kmfoysal@gmail.com**
+-   📫 Write me **contact.kmfoysal@gmail.com**
 
 <br/>
 
