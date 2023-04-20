@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Foysal</h1>
-<h3 align="center">A passionate front end web developer.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm K.M Foysal</h1>
+<h3 align="center">A passionate web developer.</h3>
 
 <b/>
 
@@ -13,6 +13,8 @@ applications. Proficient in front-end and back-end development with expertise in
 MongoDB, and Express.js. Strong understanding of responsive design, RESTful APIs, and web
 security. Possesses excellent problem-solving skills and a passion for delivering high-quality code.
 </p>
+
+<b/>
 
 -   🔭 I’m currently working at **Getweb Inc**
 
